@@ -3884,3 +3884,9 @@ msgstr "Acquis d'apprentissage d'organisation de formation"
 
 msgid "education group detailed achievement"
 msgstr "Acquis d'apprentissage détaillé d'organisation de formation"
+
+msgid "planned classes cannot be higher than 0 while annual volume is 0"
+msgstr "le nombre de classes prévues ne peut être supérieur à 0  si le volume annuel est de 0"
+
+msgid "planned classes cannot be 0 while annual volume is more than 0"
+msgstr "le nombre de classes prévues devrait être supérieur vu que le volume annuel est supérieur à 0"

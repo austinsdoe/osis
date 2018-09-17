@@ -3877,3 +3877,10 @@ msgstr ""
 
 msgid "education group detailed achievement"
 msgstr ""
+
+msgid "planned classes cannot be higher than 0 while annual volume is 0"
+msgstr ""
+
+msgid "planned classes cannot be 0 while annual volume is more than 0"
+msgstr ""
+
